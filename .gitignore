@@ -4,6 +4,7 @@ yarn-error.log
 dist/
 
 *.js
+!jest.config.js
 *.d.ts
 node_modules
 

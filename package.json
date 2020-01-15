@@ -51,7 +51,8 @@
     "jest": "^24.9.0",
     "jsii": "^0.20.11",
     "jsii-pacmak": "^0.20.11",
-    "typescript": "^3.7.3"
+    "typescript": "^3.7.3",
+    "ts-jest": "24.3.0"
   },
   "dependencies": {
     "@aws-cdk/aws-apigateway": "^1.19.0",
